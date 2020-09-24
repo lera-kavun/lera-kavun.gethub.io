@@ -1,0 +1,133 @@
+body {
+	background-image: url("wall.jpg");
+	background-size: 100%;
+}
+header{
+	border: none;
+	background-color: none;
+	font-family: monospace;
+	font-size: 22px;
+}
+main{
+	border: 0,90px solid black;
+	background-color: none;
+}
+img {
+	top: 90px;
+	margin-left: 140px;
+  padding: 15px;
+  width: 400px;
+	bottom: 50px;
+}
+.columns{
+	width: 270px;
+	display: inline-block;
+	border: none;
+	background-color: none;
+	margin: 130px;
+	margin-left: 200px;
+	vertical-align: top;
+	margin-top: 0px;
+	line-height: 140%;
+}
+.columns img{
+	margin-left: 0;
+}
+p {
+	display: inline-block;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	vertical-align: top;
+	padding: 2px;
+	font-family: monospace;
+	font-size: 18px;
+	width: 600px;
+	margin-top: 120px;
+	line-height: 140%;
+}
+.whatever {
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-left: 300px;
+	vertical-align: top;
+	font-family: monospace;
+	font-size: 18px;
+	width: 800px;
+	margin-top: -70px;
+	line-height: 140%;
+}
+nav ul {
+  list-style-type: none;
+  margin: 20;
+  padding: 10;
+  overflow: hidden;
+  background-color: none;
+	margin-left: 230px;
+}
+nav li {
+  float: left;
+}
+nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+	padding: 14px 60px;
+  text-decoration: none;
+}
+h1{
+text-align: center;
+font-family: monospace;
+}
+h2{
+text-align: center;
+font-family: monospace;
+}
+ul.b {
+	list-style-type: black circle;
+	display: inline-block;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 70px;
+	vertical-align: top;
+	padding: 2px;
+	font-family: monospace;
+	font-size: 20px;
+	width: 600px;
+	margin-top: 110px;
+	line-height: 250%;
+}
+ul.a {
+	list-style-type: black circle;
+	display: inline-block;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	vertical-align: top;
+	padding: 2px;
+	font-family: monospace;
+	font-size: 18px;
+	width: 600px;
+	margin-top: 120px;
+	line-height: 140%;
+}
+ul.c {
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-left: 300px;
+	vertical-align: top;
+	font-family: monospace;
+	font-size: 18px;
+	width: 800px;
+	margin-top: -95px;
+	line-height: 140%;
+}
+.footer {
+	position: relative;
+	left: 0;
+	bottom: 2px;
+	width: 100%;
+	background-color: none;
+	color: black;
+	text-align: center;
+}
